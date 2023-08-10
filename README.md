@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Panos Sakchiraphong</h1>
 <h3 align="center">A determined student ready to conquer the world.</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/2e/61/44/2e61441e3daca5efa2fceaeda4745b93.gif">
+<img align="right" alt="coding" width="380" src="https://i.pinimg.com/originals/2e/61/44/2e61441e3daca5efa2fceaeda4745b93.gif">
 
 - 🔭 I’m currently working on [A Character Controller](https://github.com/ItsPanos/FPS-Camera-Test)
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **itspanos001@gmail.com**
 
-- ⚡ Fun fact **I possess ten times the number of private repositories compared to public ones.**
+- ⚡ Fun fact **I possess ten times the number of private repositories compared to public ones!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
