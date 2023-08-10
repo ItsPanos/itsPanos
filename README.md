@@ -2,7 +2,7 @@
 <h3 align="center">A determined student ready to conquer the world.</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/2e/61/44/2e61441e3daca5efa2fceaeda4745b93.gif">
 
-- 🔭 I’m currently working on [FPS-Camera-Test](https://github.com/ItsPanos/FPS-Camera-Test)
+- 🔭 I’m currently working on [A Character Controller](https://github.com/ItsPanos/FPS-Camera-Test)
 
 - 🌱 I’m currently learning **Leetcode Algorithms**
 
